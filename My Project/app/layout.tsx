@@ -14,7 +14,7 @@ export const metadata = {
   title: "JESSES & SONS BUSINESS WORLD",
   description:
     "Specializing in landed property agency, piggery, livestock herding, poultry farming, and block industry.",
-    generator: 'v0.dev'
+    generator: 'fb.com/empiredigits'
 }
 
 export default function RootLayout({
