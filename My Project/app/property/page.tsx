@@ -1,3 +1,4 @@
+"use client";
 import { motion } from "framer-motion"
 import ContactForm from "@/components/ContactForm"
 import MotionImage from "@/components/MotionImage"
